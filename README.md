@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there👋, I'm Sai Prasad Raju</h1>
-<p align='center'>Data Science Enthusiast | NLP & AI Specialist | SSE with 5+ Yrs Exp | Let's discuss AI's future and ethics!</p>
-<!-- <h3 align="center">A passionate data science learner</h3>
-<h4 align="center">Pursuing Ph.D. in data science to move in the right direction</h3> -->
+<p align='center'>Software Engineer | Java & React Specialist | SSE with 8+ Yrs Exp | Let's discuss AI's future and ethics!</p>
+<!-- <h3 align="center">A passionate web application developer</h3>
+<h4 align="center">Master's degree in computer science from University Of Missouri-Kansas City</h3> -->
 
 <p align="left">
     <img alt="vijayayeruva"
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
     <img alt="vijayayeruva" src="https://github-profile-trophy.vercel.app/?username=vijayayeruva"/>
 </p>
 
-- 🔭 I'm currently working on *data science skills with Python programming language*
-- 🌱 I'm currently learning *Django and Dash*
+- 🔭 I'm currently working on *web application development using latest market trends*
+- 🌱 I'm currently learning *DevOps and Cloud*
 - 👯 I'm looking to collaborate on *projects that have a positive social impact*
-- 💬 Ask me about *my research in NLP, ML, AI, and teaching*
+- 💬 Ask me about *my research in AI*
 - 📫 How to reach me **https://www.linkedin.com/in/SaiPrasadRaju/**
-- 😄 Pronouns: *She/Her*
+- 😄 Pronouns: *He/Him*
 
 <!-- I'm currently working on [data science skills with Python programming language](https://www.kaggle.com/vijayayeruva)
     - 🤝 I'm looking for help with *showcasing my skills and finding the best job for my skills*
